@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CIAER": {
+      "commandName": "Project",
+      "commandLineArgs": "\"0004008C0019A200 Shin Megami Tensei IV - Apocalypse (CTR-M-BG4E-00) (U).cia\"",
+      "workingDirectory": "C:\\Users\\friiSkiller\\source\\repos\\CIAER\\CIAER\\bin\\Debug\\netcoreapp3.1"
+    }
+  }
+}
